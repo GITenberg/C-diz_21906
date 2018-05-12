@@ -1,0 +1,32 @@
+_repo: C-diz_21906
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pérez Galdós, Benito
+    aliases:
+    - Galdós, Benito Pérez
+    - Perez Galdos, Benito
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '3821'
+    url: http://www.gutenberg.org/2009/agents/3821
+    wikipedia: http://en.wikipedia.org/wiki/Benito_Pérez_Galdós
+description: ''
+gutenberg_issued: '2007-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21906'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cádiz (Spain) -- History -- Fiction'
+- !lcsh 'Spain -- History -- Napoleonic Conquest, 1808-1813 -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Spain. Cortes (1810-1813) -- Fiction'
+title: Cádiz
+url: http://www.gutenberg.org/ebooks/21906
